@@ -1,0 +1,15 @@
+hr {
+    border: none;
+    background-color: whitesmoke;
+    color: whitesmoke;
+    height: 2px;
+    width: 50%;
+}
+
+.recipe-container {
+    color: whitesmoke; 
+}
+
+.ingredients-list {
+    list-style: none;
+}
